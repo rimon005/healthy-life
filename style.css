@@ -6,7 +6,7 @@ h1{
 }
 .frist-area {
     display: flex;
-    background-color: #FBFBFB;
+    background-image: linear-gradient(#F6FBF8 , #ffffff);
 }
 .food{
     width: 50%;
