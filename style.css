@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+} 
+h1{
+    font-size: 40px;
+}
+.frist-area {
+    display: flex;
+    background-color: #FBFBFB;
+}
+.food{
+    width: 50%;
+    padding: 5%;
+}
+.food img{
+    width: 80%;
+}
+.start-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #4C5550;
+    color: white;
+    border-radius: 10px;
+}
